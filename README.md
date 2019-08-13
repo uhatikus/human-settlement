@@ -29,24 +29,14 @@ Uzbekistan - 18
 ### Required python3 packages
 
 `pip3 install vk_api`
+
 `pip3 install pymysql`
+
 `pip3 install pyyaml`
 
 ### Before running
 
 Before running, fill in the correct information for mysql and vk databases connections in the file `params.yaml`. Also, fill in the ids of the countries whose human settlements you would like to see in your mysql database. 
-
-mysql:
-  host: localhost
-  user: user
-  password: sql_pw
-  db: database
-vk:
-  login: +79112223344
-  password: vk_pw
-country_ids:
-  - 1
-  - 2
 
 ### Run
 
@@ -86,24 +76,14 @@ country_ids:
 ### Необходимые пакеты python3
 
 `pip3 install vk_api`
+
 `pip3 install pymysql`
+
 `pip3 install pyyaml`
 
 ### Перед запуском
 
 Перед запуском заполните достоверную информацию для подключения к базе данных mysql и vk в файле `params.yaml`. А так же заполните id стран, чьи населенные пункты вы хотели бы видеть в своей базе данных. 
-
-mysql:
-  host: localhost
-  user: user
-  password: sql_pw
-  db: database
-vk:
-  login: +79112223344
-  password: vk_pw
-country_ids:
-  - 1
-  - 2
 
 ### Запуск
 
