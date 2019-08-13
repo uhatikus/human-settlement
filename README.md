@@ -1,6 +1,6 @@
 
 # Human settlement
-(описание на русском языке -- ниже)
+(описание на русском языке - ниже)
 
 ### Description 
 
@@ -9,21 +9,21 @@ This is the simplest program in python3 used to get the settlements of the given
 In the folder obtained_mysql_table, there is an example of the resulting table (with human settlements of CIS++ countries) in .zip format, which contains compressed .sql file. 
 
 #### CIS++ countries:
-Russia - 1
-Ukraine - 2
-Belarus - 3
-Kazakhstan - 4
-Azerbaijan - 5
-Armenia - 6
-Georgia - 7
-Kyrgyzstan - 11
-Latvia - 12
-Lithuania - 13
-Estonia - 14
-Moldova - 15
-Tajikistan - 16
-Turkmenistan - 17
-Uzbekistan - 18
+Russia - 1,
+Ukraine - 2,
+Belarus - 3,
+Kazakhstan - 4,
+Azerbaijan - 5,
+Armenia - 6,
+Georgia - 7,
+Kyrgyzstan - 11,
+Latvia - 12,
+Lithuania - 13,
+Estonia - 14,
+Moldova - 15,
+Tajikistan - 16,
+Turkmenistan - 17,
+Uzbekistan - 18.
 
 
 ### Required python3 packages
@@ -57,20 +57,20 @@ Before running, fill in the correct information for mysql and vk databases conne
 В папке obtained_mysql_table находится пример полученной таблицы (с населенными пунктами стран СНГ++) в формате .zip, в котором сжат файл .sql. 
 
 #### Страны СНГ++:
-Россия - 1
-Украина - 2
-Беларусь  - 3
-Казахстан - 4
-Азербайджан - 5
-Армения - 6
-Грузия - 7
-Кыргызстан  - 11
-Латвия - 12
-Литва - 13
-Эстония - 14
-Молдова - 15
-Таджикистан - 16
-Туркменистан - 17
+Россия - 1,
+Украина - 2,
+Беларусь - 3,
+Казахстан - 4,
+Азербайджан - 5,
+Армения - 6,
+Грузия - 7,
+Кыргызстан - 11,
+Латвия - 12,
+Литва - 13,
+Эстония - 14,
+Молдова - 15,
+Таджикистан - 16,
+Туркменистан - 17,
 Узбекистан - 18
 
 ### Необходимые пакеты python3
