@@ -4,7 +4,7 @@
 
 ### Description 
 
-This is the simplest program in python3 used to get the settlements of the given countries that exist in the social network vk.com. Results are savув in mysql database. 
+This is the simplest program in python3 used to get the settlements of the given countries that exist in the social network vk.com. Results are saved in mysql database. 
 
 In the folder obtained_mysql_table, there is an example of the resulting table (with human settlements of CIS++ countries) in .zip format, which contains compressed .sql file. 
 
