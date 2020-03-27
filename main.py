@@ -1,6 +1,6 @@
 #########################
-# Aleksandr Ukhatov		#
-# 2019/08/13			#
+# Aleksandr Ukhatov
+# 2019/08/13
 #########################
 
 import vk_api
